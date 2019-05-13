@@ -1,3 +1,0 @@
-Advvanced Data Structures will include: 
-
-1) Skip Lists
